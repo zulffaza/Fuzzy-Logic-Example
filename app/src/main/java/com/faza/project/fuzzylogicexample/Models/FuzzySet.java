@@ -1,4 +1,4 @@
-package com.faza.project.fuzzylogicexample;
+package com.faza.project.fuzzylogicexample.Models;
 
 /**
  * Dibuat oleh Faza Zulfika Permana Putra
